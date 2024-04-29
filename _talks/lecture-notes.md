@@ -1,5 +1,5 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Lecture Notes"
 collection: talks
 type: "Lecture Notes"
 permalink: /talks/2014-03-01-talk-3
