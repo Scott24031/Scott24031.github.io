@@ -2,7 +2,7 @@
 title: "Minicourse Notes"
 collection: notes
 type: "Lecture Notes"
-permalink: /notes/lecture-notes
+permalink: /notes/mini-course-notes
 venue: "Testing Institute of America 2014 Annual Conference"
 date: 2014-03-01
 location: "Los Angeles, CA"
