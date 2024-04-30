@@ -23,9 +23,8 @@ Some Notes (Upadating)
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 
-|                                                                                UCLA                                                                             |
+<!-- |                                                                                UCLA                                                                             |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-
 | **Course**               | **Term**                                       | **Instructor**                        | **Textbook**                                |
 |:------------------------:|:----------------------------------------------:|:------------------------------------:|:-------------------------------------------:|
 | Honors Analysis (131AH/BH)| Winter & Spring 2021                         | Monica Vișan                         | Rudin, Principles of Mathematical Analysis. |
@@ -50,7 +49,95 @@ Some Notes (Upadating)
 |                          | Other Courses                                  |                                      |                                             |
 |:------------------------:|:----------------------------------------------:|:------------------------------------:|:-------------------------------------------:|
 | **Course**               | **Term**                                       | **Instructor**                        | **Textbook**                                |
-| Motivic Cohomology (BIMSA)| Spring 2024                                  | Nanjun Yang                          | N/A                                         |
+| Motivic Cohomology (BIMSA)| Spring 2024                                  | Nanjun Yang                          | N/A                                         | -->
+
+<table border="1">
+    <tr>
+        <th colspan="4">Fall 2023</th>
+    </tr>
+    <tr>
+        <th>Date</th>
+        <th>Speaker</th>
+        <th>Topic</th>
+        <th>Reference</th>
+    </tr>
+    <tr>
+        <td>Aug. 29</td>
+        <td rowspan="4">N/A</td>
+        <td>Organizational meeting</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>Sept. 5</td>
+        <td rowspan="3">Introductory reading of K-theory</td>
+        <td rowspan="3">Weibel, The K-book, Ch. 1-2.</td>
+    </tr>
+    <tr>
+        <td>Sept. 12</td>
+    </tr>
+    <tr>
+        <td>Sept. 26</td>
+    </tr>
+    <tr>
+        <td>Oct. 3</td>
+        <td>Juhan Kim</td>
+        <td>The space $F \psi^q$</td>
+        <td rowspan="7">
+            <p>Quillen, "On the Cohomology and K-Theory of the General Linear Groups Over a Finite Field" (1972)</p>
+            <p>Mitchell, Notes on the K-theory of Finite Fields</p>
+        </td>
+    </tr>
+    <tr>
+        <td>Oct. 10</td>
+        <td>Jiantong Liu</td>
+        <td>The Brauer lift</td>
+    </tr>
+    <tr>
+        <td>Oct. 17</td>
+        <td>Haoran Yin</td>
+        <td>Vanishing of the rational and mod- $p$ homology of $\mathbf{B G L} \mathbb{F}_q$</td>
+    </tr>
+    <tr>
+        <td>Oct. 24</td>
+        <td>Juhan Kim</td>
+        <td>Mod-l homology</td>
+    </tr>
+    <tr>
+        <td>Oct. 31</td>
+        <td>Haoran Yin</td>
+        <td>Graded algebras and indecomposable elements</td>
+    </tr>
+    <tr>
+        <td>Nov. 7</td>
+        <td>Jiantong Liu</td>
+        <td>Quillen's detection theorem</td>
+    </tr>
+    <tr>
+        <td>Nov. 14</td>
+        <td>Juhan Kim</td>
+        <td>Mod-2 cohomology of $\mathbf{G} \mathbf{L}_2 \mathbb{F}_q$</td>
+    </tr>
+    <tr>
+        <td>Nov. 24</td>
+        <td>Haoran Yin</td>
+        <td>Quillen's theorem A and B</td>
+        <td rowspan="2">Quillen, Higher Algebraic K-theory: I (1972)</td>
+    </tr>
+    <tr>
+        <td>Nov. 26</td>
+        <td rowspan="3">Jiantong Liu</td>
+        <td>Quillen's devissage theorem and localization theorem</td>
+    </tr>
+    <tr>
+        <td>Nov. 28</td>
+        <td rowspan="2">Suslin's rigidity theorem</td>
+        <td rowspan="2">Suslin, On the K-theory of Algebraically Closed Fields (1983)</td>
+    </tr>
+    <tr>
+        <td>Dec. 5</td>
+    </tr>
+</table>
+
 
 
 
