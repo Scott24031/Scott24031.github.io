@@ -23,9 +23,10 @@ Some Notes (Upadating)
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 
-|                          | UCLA                                           |                                      |                                             |
-|:------------------------:|:----------------------------------------------:|:------------------------------------:|:-------------------------------------------:|
+|                          UCLA                                                                                                                                   |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | **Course**               | **Term**                                       | **Instructor**                        | **Textbook**                                |
+|:------------------------:|:----------------------------------------------:|:------------------------------------:|:-------------------------------------------:|
 | Honors Analysis (131AH/BH)| Winter & Spring 2021                         | Monica Vișan                         | Rudin, Principles of Mathematical Analysis. |
 | Category Theory (191)    | Spring 2021                                   | Jonathan Rubin                       | Riehl, Category Theory in Context.          |
 | Algebraic Number Theory (205A)| Fall 2022                                | Romyar Sharifi                       | Lecture Notes                               |
@@ -37,7 +38,6 @@ Some Notes (Upadating)
 | Algebraic Geometry, Part II (214B)| Spring 2023                          | Joaquín Moraga                       | Hartshorne, Algebraic Geometry.            |
 | Algebraic Topology (225C)| Spring 2023                                   | Sucharit Sarkar                      | Hatcher, Algebraic Topology.                |
 | Lie Theory (229A)        | Spring 2023                                   | Raphaël Rouquier                     | N/A                                         |
-
 |                          | UIUC                                           |                                      |                                             |
 |:------------------------:|:----------------------------------------------:|:------------------------------------:|:-------------------------------------------:|
 | **Course**               | **Term**                                       | **Instructor**                        | **Textbook**                                |
@@ -46,7 +46,6 @@ Some Notes (Upadating)
 | Algebraic Topology, Part II (526)| Fall 2023                              | Vesna Stojanoska                     | Hatcher, Algebraic Topology.                |
 | Real Analysis (540)      | Spring 2024                                    | Xiaochun Li                          | Folland, Real Analysis.                     |
 | Group Cohomology (595)   | Fall 2023                                     | Vesna Stojanoska                     | N/A                                         |
-
 |                          | Other Courses                                  |                                      |                                             |
 |:------------------------:|:----------------------------------------------:|:------------------------------------:|:-------------------------------------------:|
 | **Course**               | **Term**                                       | **Instructor**                        | **Textbook**                                |
