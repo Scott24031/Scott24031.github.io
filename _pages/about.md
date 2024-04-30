@@ -23,8 +23,9 @@ Some Notes (Upadating)
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 
-|                          UCLA                                                                                                                                   |
+|                                                                                UCLA                                                                             |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+
 | **Course**               | **Term**                                       | **Instructor**                        | **Textbook**                                |
 |:------------------------:|:----------------------------------------------:|:------------------------------------:|:-------------------------------------------:|
 | Honors Analysis (131AH/BH)| Winter & Spring 2021                         | Monica Vișan                         | Rudin, Principles of Mathematical Analysis. |
