@@ -1,8 +1,8 @@
 ---
 title: "Lecture Notes"
-collection: talks
+collection: notes
 type: "Lecture Notes"
-permalink: /talks/lecture-notes
+permalink: /notes/lecture-notes
 venue: "Testing Institute of America 2014 Annual Conference"
 date: 2014-03-01
 location: "Los Angeles, CA"
