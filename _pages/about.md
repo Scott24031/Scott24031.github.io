@@ -23,7 +23,7 @@ Some Notes (Upadating)
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 
-| At UCLA |  |  |  |
+| At UCLA |
 | :---: | :---: | :---: | :---: |
 | Course | Term | Instructor | Textbook |
 | Honors Analysis (131AH/BH) | Winter & Spring 2021 | Monica Vișan | Rudin, Principles of Mathematical Analysis. |
@@ -37,14 +37,16 @@ Some Notes (Upadating)
 | Algebraic Geometry, Part II (214B) | Spring 2023 | Joaquín Moraga |  |
 | Algebraic Topology (225C) | Spring 2023 | $\underline{\text { Sucharit Sarkar }}$ | Hatcher, Algebraic Topology. |
 | Lie Theory (229A) | Spring 2023 | Raphaël Rouquier | N/A |
-| At UIUC |  |  |  |
+| At UIUC |
+| :---: | :---: | :---: | :---: |
 | Course | Term | Instructor | Textbook |
 | Commutative Algebra (502) | Fall 2023 | Sankar Dutta | Serre, Local Algebra. |
 | Differentiable Manifolds, Part I (518) | Fall 2023 | Eugene Lerman | Lee, Intro to Smooth Manifolds. |
 | Algebraic Topology, Part II (526) | Fall 2023 | Vesna Stojanoska | Hatcher, Algebraic Topology. |
 | Real Analysis (540) | Spring 2024 | Xiaochun Li | Folland, Real Analysis. |
 | Group Cohomology (595) | Fall 2023 | Vesna Stojanoska | N/A |
-| Other Courses |  |  |  |
+| Other Courses |
+| :---: | :---: | :---: | :---: |
 | Course | Term | Instructor | Textbook |
 | Motivic Cohomology (BIMSA) | Spring 2024 | Nanjun Yang | N/A |
 
