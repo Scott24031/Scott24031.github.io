@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Home Page"
+title: "Welcome to My Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -28,4 +28,4 @@ Just wanted to let you know that I'm still learning math, so if you notice any e
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about me can be found in my [BILIBILI ACCOUNT](https://space.bilibili.com/118961960?spm_id_from=333.1365.0.0). Some notes will also post on my [WORDPRESS](https://scottmath.top/) (which this theme was forked from) might also be helpful.
