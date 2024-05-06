@@ -10,7 +10,7 @@ location: "Los Angeles, CA"
 
 These are lecture notes for the course I studied, you can download the PDF here:
 
-| <center>**Lecture Notes at UCLA**</center> | | | |
+| **Lecture Notes at UCLA** |  |  |  |
 | :---: | :---: | :---: | :---: |
 | **Course** | **Term** | **Instructor** | **Textbook** |
 | Honors Analysis (131AH/BH) | Winter & Spring 2021 | Monica Vișan | Rudin, Principles of Mathematical Analysis. |
