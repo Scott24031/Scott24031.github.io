@@ -15,9 +15,9 @@ The areas of interested encompass Algebraic Number Theory, Representation Theory
 
 Some Notes (Upadating)
 ======
-1. For mathematical lecture notes, you can read on [Lecture Notes](https://scott24031.github.io/notes/lecture-notes)
-2. For mini-course notes, you can read on [Mini-course Notes](https://scott24031.github.io/notes/mini-course-notes) 
-
+1. For mathematical lecture notes, you can read on [Lecture Notes](https://scott24031.github.io/notes/lecture-notes).
+2. For mini-course or summer course notes, you can read on [Mini-course Notes](https://scott24031.github.io/notes/mini-course-notes). 
+3. For some physics/mathematical physics notes, you can read on [Lecture notes on Physics](https://scott24031.github.io/notes/physics-notes).
 
 Some Remarks
 ------
