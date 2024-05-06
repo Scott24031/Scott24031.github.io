@@ -10,7 +10,7 @@ location: "Los Angeles, CA"
 
 These are lecture notes for the course I studied, you can download the PDF here:
 
-### At UCLA
+### Algebra & Number Theory
 
 | Course                      | Term              | Instructor       | Textbook                                      |
 |-----------------------------|-------------------|------------------|-----------------------------------------------|
@@ -26,7 +26,7 @@ These are lecture notes for the course I studied, you can download the PDF here:
 | Algebraic Topology (225C)   | Spring 2023       | Sucharit Sarkar  | Hatcher, Algebraic Topology.                  |
 | Lie Theory (229A)           | Spring 2023       | Raphaël Rouquier | N/A                                           |
 
-### At UIUC
+### Geometry & Topology
 
 | Course                    | Term          | Instructor         | Textbook                             |
 |---------------------------|---------------|--------------------|--------------------------------------|
@@ -36,8 +36,10 @@ These are lecture notes for the course I studied, you can download the PDF here:
 | Real Analysis (540)       | Spring 2024   | Xiaochun Li        | Folland, Real Analysis.              |
 | Group Cohomology (595)    | Fall 2023     | Vesna Stojanoska   | N/A                                  |
 
-### Other Courses
+### Analysis & Differential Equations
 
 | Course                 | Term         | Instructor       | Textbook      |
 |------------------------|--------------|------------------|---------------|
 | Motivic Cohomology (BIMSA) | Spring 2024 | Nanjun Yang     | N/A           |
+
+### Other course
