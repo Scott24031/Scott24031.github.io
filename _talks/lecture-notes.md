@@ -10,8 +10,8 @@ location: "Los Angeles, CA"
 
 These are lecture notes for the course I studied, you can download the PDF here:
 
-| **Lecture Notes at UCLA** | | | |
-| --- | --- | --- | --- |
+| <center>**Lecture Notes at UCLA**</center> | | | |
+| :---: | :---: | :---: | :---: |
 | **Course** | **Term** | **Instructor** | **Textbook** |
 | Honors Analysis (131AH/BH) | Winter & Spring 2021 | Monica Vișan | Rudin, Principles of Mathematical Analysis. |
 | Category Theory (191) | Spring 2021 | Jonathan Rubin | Riehl, Category Theory in Context. |
