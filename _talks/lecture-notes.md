@@ -31,7 +31,7 @@ These are lecture notes for the course I already studied or still studying, Some
 | Commutative Algebra (USTC)                | Autumn 2022                     | Junchao Shentu           | Atiyah & Macdonald, Intro to Commutative Algebra. |
 | Introduction of Algebraic Geometry (ETHZ) | Spring 2022                     | Maria Yakerson           | Lecture Notes                                     |
 | Lie Theory (UCLA 229A)                    | Spring 2023                     | Raphaël Rouquier         | N/A                                               |
-| Lie Algebra (USTC)                        | Spring 2020                     | Jia-Hong Chen            | N/A                                               |
+| Lie Algebra (USTC)                        | Spring 2020                     | Hong-Jia Chen            | N/A                                               |
 
 ### Geometry & Topology
 
