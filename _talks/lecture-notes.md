@@ -4,7 +4,7 @@ collection: notes
 type: "Lecture Notes"
 permalink: /notes/lecture-notes
 venue: "Mathematics course notes of undergraduate/graduate level"
-date: 2014-03-01
+date: 2023-03-01
 location: "Nanjing, JiangSu"
 ---
 
@@ -21,7 +21,7 @@ These are lecture notes for the course I already studied or still studying, Some
 | Linear Algebra                            | Self Contained                  | Wu-Yen Chuang, Jin-Peng An  | Fretiag, Linear Algebra & Lecture notes        |
 | Abstract Algebra (UCAS)                   | Winter & Spring 2021            | Wen-wei Li               | Kostrikin, Introduction to Algebra.               |
 | Abstract Algebra (THU)                    | Autumn 2024                     | Si-Qi Liu                | N/A (Not start yet).                              |
-| Algebra (Honor) (NTU)                     | Self Contained                  | Wu-Yen Chuang, Ted Chinburg        | Lang, Algebra.                          |
+| Algebra (Honor)                           | Self Contained                  | Wu-Yen Chuang, Ted Chinburg        | Lang, Algebra.                          |
 | Topics on Group Theory (BIMSA)            | Spring 2024                     | Sergey Oblezin           | N/A.                                              |
 | Number Theory                             | Self Contained                  | Ted Chinburg             | Lecture Notes                                     |
 | Algebra (Ring, Module & Field) (UCLA)     | Winter 2022                     | Alexander Merkurjev      | N/A                                               |
@@ -53,7 +53,7 @@ These are lecture notes for the course I already studied or still studying, Some
 
 | Course                                       | Term                      | Instructor                             | Textbook                         |
 |:--------------------------------------------:|:-------------------------:|:--------------------------------------:|:--------------------------------:|
-| Mathematical Analysis I,II,III               | Self Contained            | Chen-Yu Chim, Si-Qi Liu                | N/A                              |
+| Mathematical Analysis I,II,III               | Self Contained            | Chen-Yu Chi, Si-Qi Liu                | N/A                              |
 | Analysis I,II,III (NTU)                      |                           | Chen-Yu Chi                            | N/A                              |
 | Real Analysis I (NTU)                        |                           | Fon-Che Liu                            | Folland, Real Analysis           |
 | Real Analysis II (NTU)                       |                           | Fon-Che Liu                            | Folland, Real Analysis           |
@@ -63,3 +63,8 @@ These are lecture notes for the course I already studied or still studying, Some
 | Functional Analysis II (HSE)                 | Spring 2021               | Пирковский А.Ю.                        | N/A                              |
 
 ### Other course
+| Course                                                            | Term                                          | Instructor                             | Textbook                         |
+|:-----------------------------------------------------------------:|:---------------------------------------------:|:--------------------------------------:|:--------------------------------:|
+| Category Theory                                                   | Self Contained                                | Павлов А. Б, Hao Zheng                 | N/A                              |
+|An Introduction to the Theory of Categories and Homological Algebra| Spring 2022                                   |Chris Brav.                             |N/A                               |
+|Probability Theory (USTC)                                          | Spring 2020                                   |Dangzheng Liu.                          |N/A                               |
