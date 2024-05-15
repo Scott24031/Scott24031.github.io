@@ -4,7 +4,7 @@ collection: notes
 type: "Lecture Notes"
 permalink: /notes/lecture-notes
 venue: "Mathematics course notes of undergraduate/graduate level"
-date: 2023-03-01
+date: 2024-05-15
 location: "Nanjing, JiangSu"
 ---
 
@@ -63,6 +63,7 @@ These are lecture notes for the course I already studied or still studying, Some
 | Functional Analysis II (HSE)                 | Spring 2021               | Пирковский А.Ю.                        | N/A                              |
 
 ### Other course
+
 | Course                                                            | Term                                          | Instructor                             | Textbook                         |
 |:-----------------------------------------------------------------:|:---------------------------------------------:|:--------------------------------------:|:--------------------------------:|
 | Category Theory                                                   | Self Contained                                | Павлов А. Б, Hao Zheng                 | N/A                              |
