@@ -3,9 +3,9 @@ title: "Lecture Notes"
 collection: notes
 type: "Lecture Notes"
 permalink: /notes/lecture-notes
-venue: "Testing Institute of America 2014 Annual Conference"
+venue: "Mathematics course notes of undergraduate/graduate level"
 date: 2014-03-01
-location: "Los Angeles, CA"
+location: "Nanjing, JiangSu"
 ---
 
 These are lecture notes for the course I studied, you can download the PDF here:
@@ -34,8 +34,8 @@ These are lecture notes for the course I studied, you can download the PDF here:
 | Course                                    | Term                            | Instructor               | Textbook                             |
 |-------------------------------------------|---------------------------------|--------------------------|--------------------------------------|
 | Topology H (USTC)                         | Spring 2022                     |  Zuo-Qin Wang            |                 |
-| Algebraic Topology I (ETHZ)               | Fall 2023                       |   Paul Biran             | Hatcher, Algebraic Topology.                |
-| Algebraic Topology II (ETHZ)              | Fall 2023                       |    Paul Biran            | Hatcher, Algebraic Topology.                |
+| Algebraic Topology I (ETHZ)               | Fall 2020                       |   Paul Biran             | Hatcher, Algebraic Topology.                |
+| Algebraic Topology II (ETHZ)              | Fall 2021                       |    Paul Biran            | Hatcher, Algebraic Topology.                |
 | Differentiable Manifolds (UCB)            | Fall 2023                       | Richard Bamler           | Lee, Intro to Smooth Manifolds.      |
 | Differentiable Manifolds H (USTC)         | Spring 2023                     | Zuo-Qin Wang             | Lee, Intro to Smooth Manifolds.      |
 | Differential Geometry I (ETHZ)            | Fall 2023                       | Tom Ilmanen              | Lecture Notes.         |
