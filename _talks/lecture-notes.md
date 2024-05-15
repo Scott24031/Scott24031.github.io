@@ -31,18 +31,18 @@ These are lecture notes for the course I studied, you can download the PDF here:
 
 ### Geometry & Topology
 
-| Course                    | Term                  | Instructor                    | Textbook                             |
-|---------------------------|-----------------------|-------------------------------|--------------------------------------|
-| Topology H (USTC)         | Spring 2022     |  Zuo-Qin Wang      |                 |
-| Algebraic Topology I (ETHZ)    | Fall 2023     |   Paul Biran     | Hatcher, Algebraic Topology.                |
-| Algebraic Topology II (ETHZ)   | Fall 2023     |    Paul Biran   | Hatcher, Algebraic Topology.                |
-| Differentiable Manifolds (UCB) | Fall 2023 | Richard Bamler | Lee, Intro to Smooth Manifolds.      |
-| Differentiable Manifolds H (USTC) | Spring 2023 | Zuo-Qin Wang | Lee, Intro to Smooth Manifolds.      |
-| Differential Geometry I (ETHZ)| Fall 2023 | Tom Ilmanen | Lecture Notes.         |
-| Basic Differential Geometry (BIMSA)       | Spring 2024   |        | N/A.              |
-| Fiber bundle, Characteristic Class and Index Theorem (BIMSA)   | Fall 2023     |    | N/A                                  |
-| Algebraic Geometry, Part I (HSE)          | Winter 2023                     |               | Hartshorne, Algebraic Geometry.               |
-| Algebraic Geometry, Part II (HSE)         | Spring 2023                     |            | Hartshorne, Algebraic Geometry.               |
+| Course                                    | Term                            | Instructor               | Textbook                             |
+|-------------------------------------------|---------------------------------|--------------------------|--------------------------------------|
+| Topology H (USTC)                         | Spring 2022                     |  Zuo-Qin Wang            |                 |
+| Algebraic Topology I (ETHZ)               | Fall 2023                       |   Paul Biran             | Hatcher, Algebraic Topology.                |
+| Algebraic Topology II (ETHZ)              | Fall 2023                       |    Paul Biran            | Hatcher, Algebraic Topology.                |
+| Differentiable Manifolds (UCB)            | Fall 2023                       | Richard Bamler           | Lee, Intro to Smooth Manifolds.      |
+| Differentiable Manifolds H (USTC)         | Spring 2023                     | Zuo-Qin Wang             | Lee, Intro to Smooth Manifolds.      |
+| Differential Geometry I (ETHZ)            | Fall 2023                       | Tom Ilmanen              | Lecture Notes.         |
+| Basic Differential Geometry (BIMSA)       | Spring 2024                     |                          | N/A.              |
+| Fiber bundle, Characteristic Class and Index Theorem (BIMSA) | Fall 2023    |                          | N/A                                  |
+| Algebraic Geometry, Part I (HSE)          | Winter 2023                     |                          | Hartshorne, Algebraic Geometry.               |
+| Algebraic Geometry, Part II (HSE)         | Spring 2023                     |                          | Hartshorne, Algebraic Geometry.               |
 
 ### Analysis & Differential Equations
 
