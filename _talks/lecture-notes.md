@@ -25,19 +25,20 @@ These are lecture notes for the course I studied, you can download the PDF here:
 | Algebraic Number Theory                   | Self Contained                  |                          | N/A                                           |
 | Advanced Algebraic Number Theory (UPenn)  | Fall 2018                       | Ted Chinburg             | N/A                                           |
 | Commutative Algebra (USTC)                | Autumn 2022                     |  Junchao Shentu          | Atiyah & Macdonald, Intro to Commutative Algebra. |
-| Introduction of Algebraic Geometry (ETHZ) | Spring 2023                     |                          | .                                             |
+| Introduction of Algebraic Geometry (ETHZ) | Spring 2022                     |  Maria Yakerson          | Lecture Notes                                 |
 | Lie Theory (UCLA 229A)                    | Spring 2023                     | Raphaël Rouquier         | N/A                                           |
 | Lie Algebra (USTC)                        | Spring 2020                     | Jia-Hong Chen            | N/A                                           |
 
 ### Geometry & Topology
 
-| Course                    | Term          | Instructor         | Textbook                             |
-|---------------------------|---------------|--------------------|--------------------------------------|
+| Course                    | Term                  | Instructor                    | Textbook                             |
+|---------------------------|-----------------------|-------------------------------|--------------------------------------|
 | Topology H (USTC)         | Spring 2022     |  Zuo-Qin Wang      |                 |
-| Algebraic Topology I (ETHZ)    | Fall 2023     |        | Hatcher, Algebraic Topology.                |
-| Algebraic Topology II (ETHZ)   | Fall 2023     |       | Hatcher, Algebraic Topology.                |
-| Differentiable Manifolds (UCB) | Fall 2023 |  | Lee, Intro to Smooth Manifolds.      |
-| Differential Geometry I (ETHZ)| Fall 2023 |  | Hatcher, Algebraic Topology.         |
+| Algebraic Topology I (ETHZ)    | Fall 2023     |   Paul Biran     | Hatcher, Algebraic Topology.                |
+| Algebraic Topology II (ETHZ)   | Fall 2023     |    Paul Biran   | Hatcher, Algebraic Topology.                |
+| Differentiable Manifolds (UCB) | Fall 2023 | Richard Bamler | Lee, Intro to Smooth Manifolds.      |
+| Differentiable Manifolds H (USTC) | Spring 2023 | Zuo-Qin Wang | Lee, Intro to Smooth Manifolds.      |
+| Differential Geometry I (ETHZ)| Fall 2023 | Tom Ilmanen | Lecture Notes.         |
 | Basic Differential Geometry (BIMSA)       | Spring 2024   |        | N/A.              |
 | Fiber bundle, Characteristic Class and Index Theorem (BIMSA)   | Fall 2023     |    | N/A                                  |
 | Algebraic Geometry, Part I (HSE)          | Winter 2023                     |               | Hartshorne, Algebraic Geometry.               |
