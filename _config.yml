@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hwei-T'ung Kowk (郭慧通)"
+title                    : "Hui-T'ung Kuo (郭慧通)"
 title_separator          : "-"
-name                     : &name "Hwei-T'ung Kowk"
-description              : &description "Academic personal websites of Hwei-T'ung Kowk"
+name                     : &name "Hui-T'ung Kuo"
+description              : &description "Academic personal websites of Hui-T'ung Kuo"
 url                      : https://Scott24031.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Scott24031/Scott24031.github.io"
@@ -22,7 +22,7 @@ repository               : "Scott24031/Scott24031.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hwei-T'ung Kowk"
+  name             : "Hui-T'ung Kuo"
   pronouns         : # example: "she/her"  
   bio              : "I'm a sophomore undergraduate student is currently studying mathematics at Nanjing University of Posts and Telecommunications."
   location         : "Earth"
