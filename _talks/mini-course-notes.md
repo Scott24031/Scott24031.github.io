@@ -21,20 +21,5 @@ These are minicourse or summer school notes for the course I studied, you can do
 
 | Course                                    | Term                            | Instructor               | Textbook                                      |
 |:-----------------------------------------:|:-------------------------------:|:------------------------:|:----------------------------------------------:|
-| Topology H (USTC)                         | Spring 2022                     | Zuo-Qin Wang             |                                               |
+| BICMR Differential Geometry summer school                        | Summer 2024                         | BICMR             |      N/A                                         |
 
-
-### Analysis & Differential Equations
-
-| Course                                       | Term                      | Instructor                             | Textbook                         |
-|:--------------------------------------------:|:-------------------------:|:--------------------------------------:|:--------------------------------:|
-| Mathematical Analysis I,II,III               | Self Contained            | Chen-Yu Chi, Si-Qi Liu                 | N/A                              |
-| Analysis I,II,III (NTU)                      |                           | Chen-Yu Chi                            | N/A                              |
-| Real Analysis I (NTU)                        |                           | Fon-Che Liu                            | Folland, Real Analysis           |
-| Real Analysis II (NTU)                       |                           | Fon-Che Liu                            | Folland, Real Analysis           |
-| Complex Analysis (THU)                       |                           | Si-Qi Liu                              | N/A                              |
-| Analysis of Several Complex Variables. (HSE) | Spring 2024               | Glutsyuk A. A. & Golota A. S.          | N/A                              |
-| Functional Analysis I (HSE)                  | Autumn 2020               | Пирковский А.Ю.                        | N/A                              |
-| Functional Analysis II (HSE)                 | Spring 2021               | Пирковский А.Ю.                        | N/A                              |
-
-### Other course

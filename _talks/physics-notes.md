@@ -10,9 +10,6 @@ location: "NanJing, JiangSu"
 
 These are lecture notes for the course I already studied or still studying, Some of them are the courses from many universities, you can download the notes PDF here:
 
-> Remark. The notes have the "More Physics" part correspond Section I and "More Mathematical" part correspond Section II.
->
-
 
 ### Physics Notes
 

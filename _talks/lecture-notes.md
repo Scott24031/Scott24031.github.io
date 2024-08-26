@@ -10,7 +10,7 @@ location: "Nanjing, JiangSu"
 
 These are lecture notes for the course I already studied or still studying, Some of them are the courses from many universities, you can download the notes PDF here:
 
-> Remark. The "self contained" means that I referenced multiple courses and make the notes.
+> Caveat. These notes are not endorsed by the lecturers, and I have modified them (often significantly) after lectures. They are nowhere near accurate representations of what was actually lectured, and in particular, all errors are almost surely mine.
 >
 
 
@@ -18,20 +18,20 @@ These are lecture notes for the course I already studied or still studying, Some
 
 | Course                                      | Term                              | Instructor                   | Textbook                                          |
 |:-------------------------------------------:|:---------------------------------:|:--------------------------:|:---------------------------------------------------:|
-| Linear Algebra                            | Self Contained                  | Wu-Yen Chuang, Jin-Peng An  | Fretiag, Linear Algebra & Lecture notes        |
+| Linear Algebra                            |                                 | Wu-Yen Chuang            | Fretiag, Linear Algebra & Lecture notes        |
 | Abstract Algebra (UCAS)                   | Winter & Spring 2021            | Wen-wei Li               | Kostrikin, Introduction to Algebra.               |
 | Abstract Algebra (THU)                    | Autumn 2024                     | Si-Qi Liu                | N/A (Not start yet).                              |
-| Algebra (Honor)                           | Self Contained                  | Wu-Yen Chuang, Ted Chinburg        | Lang, Algebra.                          |
+| Algebra I/II(Honor)                       |                                 | Wu-Yen Chuang            | Lang, Algebra.                          |
 | Topics on Group Theory (BIMSA)            | Spring 2024                     | Sergey Oblezin           | N/A.                                              |
-| Number Theory                             | Self Contained                  | Ted Chinburg             | Lecture Notes                                     |
+| Number Theory                             |                                 | Ted Chinburg             | Lecture Notes                                     |
 | Algebra (Ring, Module & Field) (UCLA)     | Winter 2022                     | Alexander Merkurjev      | N/A                                               |
 | Homological Algebra (UCLA 212A)           | Winter 2021                     | Paul Balmer              | N/A                                               |
 | Introduction to Algebraic Number Theory   | Spring 2023                     | Zhgun V. S.              | N/A                                               |
 | Advanced Algebraic Number Theory (UPenn)  | Fall 2018                       | Ted Chinburg             | N/A                                               |
 | Commutative Algebra (USTC)                | Autumn 2022                     | Junchao Shentu           | Atiyah & Macdonald, Intro to Commutative Algebra. |
-| Introduction of Algebraic Geometry (ETHZ) | Spring 2022                     | Maria Yakerson           | Lecture Notes                                     |
+| Introduction of Algebraic Geometry (ETHZ) | Spring 2024                     | Johannes Schmitt         | Lecture Notes                                     |
 | Lie Theory (UCLA 229A)                    | Spring 2023                     | Raphaël Rouquier         | N/A                                               |
-| Lie Algebra (USTC)                        | Spring 2020                     | Hong-Jia Chen            | N/A                                               |
+| Lie Algebra and its Representation (USTC)                        | Spring 2020                     | Hong-Jia Chen            | N/A                                               |
 
 ### Geometry & Topology
 
@@ -40,7 +40,7 @@ These are lecture notes for the course I already studied or still studying, Some
 | Topology H (USTC)                         | Spring 2022                     | Zuo-Qin Wang             |                                               |
 | Algebraic Topology I (ETHZ)               | Fall 2020                       | Paul Biran               | Hatcher, Algebraic Topology.                  |
 | Algebraic Topology II (ETHZ)              | Fall 2021                       | Paul Biran               | Hatcher, Algebraic Topology.                  |
-| Differentiable Manifolds                  | Self Contained                  | Richard Bamler, Zuo-Qin Wang          | Lee, Intro to Smooth Manifolds.               |
+| Differentiable Manifolds                  | Fall 2021                       | Richard Bamler,          | Lee, Intro to Smooth Manifolds.               |
 | Differential Geometry I (ETHZ)            | Fall 2023                       | Tom Ilmanen              | Lecture Notes.                                |
 | Basic Differential Geometry (BIMSA)       | Spring 2024                     |                          | N/A.                                          |
 | Fiber bundle, Characteristic Class and Index Theorem (BIMSA) | Fall 2023    |                          | N/A                                           |
@@ -52,7 +52,7 @@ These are lecture notes for the course I already studied or still studying, Some
 
 | Course                                       | Term                      | Instructor                             | Textbook                         |
 |:--------------------------------------------:|:-------------------------:|:--------------------------------------:|:--------------------------------:|
-| Mathematical Analysis I,II,III               | Self Contained            | Chen-Yu Chi, Si-Qi Liu                | N/A                              |
+| Mathematical Analysis I,II,III               |                           | Si-Qi Liu                              | N/A                              |
 | Analysis I,II,III (NTU)                      |                           | Chen-Yu Chi                            | N/A                              |
 | Real Analysis I (NTU)                        |                           | Fon-Che Liu                            | Folland, Real Analysis           |
 | Real Analysis II (NTU)                       |                           | Fon-Che Liu                            | Folland, Real Analysis           |
@@ -65,6 +65,6 @@ These are lecture notes for the course I already studied or still studying, Some
 
 | Course                                                            | Term                                          | Instructor                             | Textbook                         |
 |:-----------------------------------------------------------------:|:---------------------------------------------:|:--------------------------------------:|:--------------------------------:|
-| Category Theory                                                   | Self Contained                                | Павлов А. Б, Hao Zheng                 | N/A                              |
+| Category Theory                                                   | Spring 2024                                   | Павлов А. Б, Hao Zheng                 | N/A                              |
 |An Introduction to the Theory of Categories and Homological Algebra| Spring 2022                                   |Chris Brav.                             |N/A                               |
 |Probability Theory (USTC)                                          | Spring 2020                                   |Dangzheng Liu.                          |N/A                               |
