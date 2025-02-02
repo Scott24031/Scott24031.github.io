@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hui-T'ung Kuo (郭慧通)"
+title                    : "Huei-T'ung Kuo (郭慧通)"
 title_separator          : "-"
 name                     : &name "Hui-T'ung Kuo"
 description              : &description "Academic personal websites of Hui-T'ung Kuo"
