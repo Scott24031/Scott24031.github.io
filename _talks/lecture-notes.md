@@ -16,55 +16,55 @@ These are lecture notes for the course I already studied or still studying, Some
 
 ### Algebra & Number Theory
 
-| Course                                      | Term                              | Instructor                   | Textbook                                          |
-|:-------------------------------------------:|:---------------------------------:|:--------------------------:|:---------------------------------------------------:|
-| Linear Algebra                            |                                 | Wu-Yen Chuang            | Fretiag, Linear Algebra & Lecture notes        |
-| Abstract Algebra (UCAS)                   | Winter & Spring 2021            | Wen-wei Li               | Kostrikin, Introduction to Algebra.               |
-| Abstract Algebra (THU)                    | Autumn 2024                     | Si-Qi Liu                | N/A (Not start yet).                              |
-| Algebra I/II(Honor)                       |                                 | Wu-Yen Chuang            | Lang, Algebra.                          |
-| Topics on Group Theory (BIMSA)            | Spring 2024                     | Sergey Oblezin           | N/A.                                              |
-| Number Theory                             |                                 | Ted Chinburg             | Lecture Notes                                     |
-| Algebra (Ring, Module & Field) (UCLA)     | Winter 2022                     | Alexander Merkurjev      | N/A                                               |
-| Homological Algebra (UCLA 212A)           | Winter 2021                     | Paul Balmer              | N/A                                               |
-| Introduction to Algebraic Number Theory   | Spring 2023                     | Zhgun V. S.              | N/A                                               |
-| Advanced Algebraic Number Theory (UPenn)  | Fall 2018                       | Ted Chinburg             | N/A                                               |
-| Commutative Algebra (USTC)                | Autumn 2022                     | Junchao Shentu           | Atiyah & Macdonald, Intro to Commutative Algebra. |
-| Introduction of Algebraic Geometry (ETHZ) | Spring 2024                     | Johannes Schmitt         | Lecture Notes                                     |
-| Lie Theory (UCLA 229A)                    | Spring 2023                     | Raphaël Rouquier         | N/A                                               |
-| Lie Algebra and its Representation (USTC)                        | Spring 2020                     | Hong-Jia Chen            | N/A                                               |
+| Course                                      | Textbook                                          |
+|:-------------------------------------------:|:---------------------------------------------------:|
+| Linear Algebra                            | Fretiag, Linear Algebra & Lecture notes        |
+| Abstract Algebra (UCAS)                   | Kostrikin, Introduction to Algebra.               |
+| Abstract Algebra (THU)                    | N/A (Not start yet).                              |
+| Algebra I/II(Honor)                       | Lang, Algebra.                          |
+| Topics on Group Theory (BIMSA)            | N/A.                                              |
+| Number Theory                             | Lecture Notes                                     |
+| Algebra (Ring, Module & Field) (UCLA)     | N/A                                               |
+| Homological Algebra (UCLA 212A)           | N/A                                               |
+| Introduction to Algebraic Number Theory   | N/A                                               |
+| Advanced Algebraic Number Theory (UPenn)  | N/A                                               |
+| Commutative Algebra (USTC)                | Atiyah & Macdonald, Intro to Commutative Algebra. |
+| Introduction of Algebraic Geometry (ETHZ) | Lecture Notes                                     |
+| Lie Theory (UCLA 229A)                    | N/A                                               |
+| Lie Algebra and its Representation (USTC) | N/A                                               |
 
 ### Geometry & Topology
 
-| Course                                    | Term                            | Instructor               | Textbook                                      |
-|:-----------------------------------------:|:-------------------------------:|:------------------------:|:----------------------------------------------:|
-| Topology H (USTC)                         | Spring 2022                     | Zuo-Qin Wang             |                                               |
-| Algebraic Topology I (ETHZ)               | Fall 2020                       | Paul Biran               | Hatcher, Algebraic Topology.                  |
-| Algebraic Topology II (ETHZ)              | Fall 2021                       | Paul Biran               | Hatcher, Algebraic Topology.                  |
-| Differentiable Manifolds                  | Fall 2021                       | Richard Bamler,          | Lee, Intro to Smooth Manifolds.               |
-| Differential Geometry I (ETHZ)            | Fall 2023                       | Tom Ilmanen              | Lecture Notes.                                |
-| Basic Differential Geometry (BIMSA)       | Spring 2024                     |                          | N/A.                                          |
-| Fiber bundle, Characteristic Class and Index Theorem (BIMSA) | Fall 2023    |                          | N/A                                           |
-| Characteristic Class                      |                                 |     Dev Sinha            |                                               |
-| Algebraic Geometry, Part I (HSE)          | Winter 2023                     |                          | Hartshorne, Algebraic Geometry.               |
-| Algebraic Geometry, Part II (HSE)         | Spring 2023                     |                          | Hartshorne, Algebraic Geometry.               |
+| Course                                    | Textbook                                      |
+|:-----------------------------------------:|:----------------------------------------------:|
+| Topology H (USTC)                         |                                               |
+| Algebraic Topology I (ETHZ)               | Hatcher, Algebraic Topology.                  |
+| Algebraic Topology II (ETHZ)              | Hatcher, Algebraic Topology.                  |
+| Differentiable Manifolds                  | Lee, Intro to Smooth Manifolds.               |
+| Differential Geometry I (ETHZ)            | Lecture Notes.                                |
+| Basic Differential Geometry (BIMSA)       | N/A.                                          |
+| Fiber bundle, Characteristic Class and Index Theorem (BIMSA) | N/A                                           |
+| Characteristic Class                      |                                               |
+| Algebraic Geometry, Part I (HSE)          | Hartshorne, Algebraic Geometry.               |
+| Algebraic Geometry, Part II (HSE)         | Hartshorne, Algebraic Geometry.               |
 
 ### Analysis & Differential Equations
 
-| Course                                       | Term                      | Instructor                             | Textbook                         |
-|:--------------------------------------------:|:-------------------------:|:--------------------------------------:|:--------------------------------:|
-| Mathematical Analysis I,II,III               |                           | Si-Qi Liu                              | N/A                              |
-| Analysis I,II,III (NTU)                      |                           | Chen-Yu Chi                            | N/A                              |
-| Real Analysis I (NTU)                        |                           | Fon-Che Liu                            | Folland, Real Analysis           |
-| Real Analysis II (NTU)                       |                           | Fon-Che Liu                            | Folland, Real Analysis           |
-| Complex Analysis (THU)                       |                           | Si-Qi Liu                              | N/A                              |
-| Analysis of Several Complex Variables. (HSE) | Spring 2024               | Glutsyuk A. A. & Golota A. S.          | N/A                              |
-| Functional Analysis I (HSE)                  | Autumn 2020               | Пирковский А.Ю.                        | N/A                              |
-| Functional Analysis II (HSE)                 | Spring 2021               | Пирковский А.Ю.                        | N/A                              |
+| Course                                       | Textbook                         |
+|:--------------------------------------------:|:--------------------------------:|
+| Mathematical Analysis I,II,III               | N/A                              |
+| Analysis I,II,III (NTU)                      | N/A                              |
+| Real Analysis I (NTU)                        | Folland, Real Analysis           |
+| Real Analysis II (NTU)                       | Folland, Real Analysis           |
+| Complex Analysis (THU)                       | N/A                              |
+| Analysis of Several Complex Variables. (HSE) | N/A                              |
+| Functional Analysis I (HSE)                  | N/A                              |
+| Functional Analysis II (HSE)                 | N/A                              |
 
 ### Other course
 
-| Course                                                            | Term                                          | Instructor                             | Textbook                         |
-|:-----------------------------------------------------------------:|:---------------------------------------------:|:--------------------------------------:|:--------------------------------:|
-| Category Theory                                                   | Spring 2024                                   | Павлов А. Б, Hao Zheng                 | N/A                              |
-|An Introduction to the Theory of Categories and Homological Algebra| Spring 2022                                   |Chris Brav.                             |N/A                               |
-|Probability Theory (USTC)                                          | Spring 2020                                   |Dangzheng Liu.                          |N/A                               |
+| Course                                                            | Textbook                         |
+|:-----------------------------------------------------------------:|:--------------------------------:|
+| Category Theory                                                   | N/A                              |
+|An Introduction to the Theory of Categories and Homological Algebra|N/A                               |
+|Probability Theory (USTC)                                          |N/A                               |
